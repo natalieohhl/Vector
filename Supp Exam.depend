@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622727180 source:c:\users\natalie oh\desktop\ict283 2021 tjad-sq-covid-19\supp exam\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"MyVector.h"
+
+1622723538 c:\users\natalie oh\desktop\ict283 2021 tjad-sq-covid-19\supp exam\myvector.h
+	<iostream>
+	<string>
+
